@@ -60,6 +60,7 @@
       {
         "school":"Syracuse University",
         "degree":"Bachelor of Science in Computer Science ",
+        "minor": "Finance",
         "graduated":"May 2020",
         "description":"Describe your experience at school, what you learned, what useful skills you have acquired etc."
       },
@@ -90,7 +91,7 @@
         "level":"60%"
       },
       {
-        "name":"Illustrator",
+        "name":"Python",
         "level":"55%"
       },
       {
@@ -98,12 +99,12 @@
         "level":"50%"
       },
       {
-        "name":"CSS",
-        "level":"90%"
+        "name":"Machine Learning",
+        "level":"40%"
       },
       {
-        "name":"HTML5",
-        "level":"80%"
+        "name":"Java",
+        "level":"45%"
       },
       {
         "name":"VueJs",
