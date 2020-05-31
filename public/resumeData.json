@@ -2,10 +2,10 @@
   "main": {
     "name":"Rich Jiang",
     "occupation":"Software Engineer",
-    "description":"Here will be your description. Use this to describe what you do or whatever you feel best describes yourself to a potential employer",
+    "description":"I have skills with web development using React JS and Machine Learning using Keras. My best languages are JavaScript,Python, and Java",
     "image":"profilepic.jpg",
-    "bio":"Use this bio section as your way of describing yourself and saying what you do, what technologies you like to use or feel most comfortable with, describing your personality, or whatever else you feel like throwing in.",
-    "contactmessage":"Here is where you should write your message to readers to have them get in contact with you.",
+    "bio":"Hi, my name is Rich Jiang and I am a software engineer with a skillset in machine learning. I love solving problems on a high level both in both software projects and businesses.",
+    "contactmessage":"Reach out to me though my email at rich.jiang2@gmail.com",
     "email": "rich.jiang2@gmail.com",
     "phone": "(917)-756-1188",
     "address":{
@@ -19,18 +19,8 @@
     "social":[
       {
         "name":"facebook",
-        "url":"http://facebook.com/tim.baker.906",
+        "url":"https://www.facebook.com/rich.jiang.1",
         "className":"fa fa-facebook"
-      },
-      {
-        "name":"twitter",
-        "url":"http://twitter.com",
-        "className":"fa fa-twitter"
-      },
-      {
-        "name":"google-plus",
-        "url":"http://googleplus.com/tbakerx",
-        "className":"fa fa-google-plus"
       },
       {
         "name":"linkedin",
@@ -39,50 +29,38 @@
       },
       {
         "name":"instagram",
-        "url":"http://instagram.com/tbaker_x",
+        "url":"https://www.instagram.com/richjiang/",
         "className":"fa fa-instagram"
       },
       {
         "name":"github",
-        "url":"http://github.com/tbakerx",
+        "url":"https://github.com/rjiang1",
         "className":"fa fa-github"
-      },
-      {
-        "name":"skype",
-        "url":"http://skype.com",
-        "className":"fa fa-skype"
       }
     ]
   },
   "resume":{
-    "skillmessage":"Here you can create a short write-up of your skills to show off to employers",
     "education":[
       {
         "school":"Syracuse University",
         "degree":"Bachelor of Science in Computer Science ",
-        "minor": "Finance",
+        "minor": "Minor in Finance",
         "graduated":"May 2020",
-        "description":"Describe your experience at school, what you learned, what useful skills you have acquired etc."
-      },
-      {
-        "school":"School #1 Maybe College?",
-        "degree":"What did you study 101",
-        "graduated":"March 2003",
-        "description":"Describe your experience at school, what you learned, what useful skills you have acquired etc."
+        "description":"Here is where I got my first exposure to machine learning and experience in being an entrepreneur. While in school I started two businesses with the Blackstone Launchpad. "
       }
     ],
     "work":[
       {
-        "company":"Awesome Design Studio",
-        "title":"Senior UX God ",
-        "years":"March 2010 - Present",
-        "description":"Describe work, special projects, notable achievements, what technologies you have been working with, and anything else that would be useful for an employer to know."
+        "company":"Syracuse University",
+        "title":"Machine Learning Researcher",
+        "years":"May 2019 - August 2020",
+        "description":"I founded a reaseach topic to preditc future stock prices by applying sentiment based machine learning on Twitter data. This mostly involved cleaning and creating datasets to feed my model. Day to day I worked with packages libraries like Pandas, NLTK, and Keras."
       },
       {
-        "company":"Super Cool Studio",
-        "title":"Junior bug fixer",
-        "years":"March 2007 - February 2010",
-        "description":"Describe work, special projects, notable achievements, what technologies you have been working with, and anything else that would be useful for an employer to know."
+        "company":"Forte Capital Group",
+        "title":"Analytical Intern",
+        "years":"June 2018 - August 2018",
+        "description":"Here I got my first exposure to Wall Street. I performed financial analysis on different public companies based in tech to provide information to my supervisor. I also communicated with thousands of high-net worth individuals resulting in a 10% increase in new investors. I prepared brief reports identifying identifying areas of oppertunity for customers to invest in."
       }
     ],
     "skills":[
@@ -92,11 +70,11 @@
       },
       {
         "name":"Python",
-        "level":"55%"
+        "level":"70%"
       },
       {
-        "name":"ReactJs",
-        "level":"50%"
+        "name":"JavaScript/React",
+        "level":"55%"
       },
       {
         "name":"Machine Learning",
@@ -107,12 +85,8 @@
         "level":"45%"
       },
       {
-        "name":"VueJs",
-        "level":"50%"
-      },
-      {
-        "name":"MongoDB",
-        "level":"80%"
+        "name":"Unix",
+        "level":"60%"
       }
     ]
   },
@@ -123,41 +97,17 @@
         "category":"My Travel Blog for my post-university travels",
         "image":"canadian-wanderlust.jpg",
         "url":"https://www.canadianwanderlust.com"
-      },
-      {
-        "title":"Fury Fighting Gear",
-        "category":"(offline now) A fighting gear company I started",
-        "image":"fury-fighting-gear.jpg",
-        "url":"http://www.timbakerdev.com"
-      },
-      {
-        "title":"Original Thai Food",
-        "category":"Website I built for a restaurant I like in Thailand",
-        "image":"original-thai-food.jpg",
-        "url":"http://www.timbakerdev.com/originalthaifood.github.io"
-      },
-      {
-        "title":"Resume Website",
-        "category":"A React based resume website template",
-        "image":"resume-website.jpg",
-        "url":"http://www.timbakerdev.com"
-      },
-      {
-        "title":"Smirkspace",
-        "category":"(MVP Only) A React and Meteor based chat University project.",
-        "image":"smirkspace.jpg",
-        "url":"http://www.smirkspace.com"
       }
     ]
   },
   "testimonials":{
     "testimonials":[
       {
-        "text":"Here you should write some nice things that someone has said about you. No lies though, employers can tell when you are lying.",
+        "text":"text",
         "user":"Kareem Abdul Jabbar"
       },
       {
-        "text":"That Tim Baker must be one of the most brilliant developers I've ever met! It is amazing that nobody has hired him yet. Hey you, you should hire this guy, he may be fresh out of University and have zero on the job experience but I am confident that he will be one of your best developers in no time!",
+        "text":"text",
         "user":"Steve Wozniak... impersonator"
       }
     ]
