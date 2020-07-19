@@ -1,6 +1,6 @@
 import React, { Component } from 'react';
 import pdf from '../Rich_Jiang_Resume_Software.pdf';
-
+// some comment
 class About extends Component {
    openInNewTab(url) {
       var win = window.open(pdf, '_blank');
